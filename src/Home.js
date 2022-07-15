@@ -6,7 +6,7 @@ import useFetch from "./useFetch";
 const Home = () => {
    
 
-    const {data: blogs,vdata: vlog, isPend, error} = useFetch('http://localhost:8000/blogs');
+    const {vdata: vlog, isPend, error} = useFetch('http://localhost:8000/blogs');
 
     return (
         <div className="home">
