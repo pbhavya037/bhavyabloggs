@@ -1,0 +1,22 @@
+{
+  "Feedbacks": [
+    {
+      "name": "Bhavya",
+      "coment": "Need Improvement",
+      "email": "pnitin037@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Nitin",
+      "comment": "Need Improvement bro!!",
+      "email": "nitin.pundhir052@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Yash Mahlotra",
+      "comment": "I like want to invest in your startup.",
+      "email": "ymstar45@gmail.com",
+      "id": 3
+    }
+  ]
+}

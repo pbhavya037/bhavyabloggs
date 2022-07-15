@@ -1,0 +1,12 @@
+code . (VS CODE) 
+
+npx create-react-app dojo-blog
+
+npm start
+
+npx json-server --watch data/db.json --port 8000
+ctrl + c to terminate watch operation
+
+
+npm install react-router-dom@5
+
